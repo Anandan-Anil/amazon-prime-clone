@@ -1,0 +1,416 @@
+.nav{
+    height: 50px;
+    width: 1000px;
+    margin-top: -5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* position: fixed; */
+}
+ .heade{
+      color: white;
+      height: 50px;
+      width: 180px; 
+     margin-left: 60px;
+     margin-top: -12px;
+ } 
+ .head-f{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:large;
+    padding-top: 10px;
+    padding-left: 60px;
+ }
+ .home{
+    height: 50px;
+    width: 90px;
+    margin-top: -50px;
+    margin-left: 260px;
+ }
+ .home-f{
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gray;
+    font-size: large;
+    padding-top: 2px;
+    padding-left: 20px;
+ }
+ .anchor{
+    text-decoration: none;
+    color: gray;
+    
+ }
+  .home:hover{
+    background-color:none;
+    transition: 0.2;
+ }
+  .home-f:hover {
+    color: gold;
+  }
+  .store{
+    height: 50px;
+    width: 90px;
+    margin-top: -50px;
+    margin-left: 360px;
+  }
+  .store-f{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    padding-top: 0px;
+    padding-left: 20px;
+    color: gray;
+}
+.store:hover{
+    background-color:none;
+    transition: 0.2;
+}
+.store-f:hover{
+   color: gold;
+}
+.livetv{
+    height: 50px;
+    width: 95px;
+    margin-top: -62px;
+    margin-left: 460px;
+}
+.live-f{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    padding-top: 7px;
+    padding-left: 20px;
+}
+
+.livetv:hover{
+   background-color:none;
+   transition: 0.2;
+}
+.live-f:hover{
+  color: gold;
+}
+.cat{
+    height: 50px;
+    width: 100px;
+    margin-top: -62px;
+    margin-left: 560px;
+}
+.cat-f{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+
+.cat:hover{
+   background-color:none;
+   transition: 0.2;
+}
+.cat-f:hover{
+  color: gold;
+}
+.sicon{
+   height: 50px;
+   width: 90px;
+   margin-top: -50px;
+   margin-left: 665px;
+}
+.ssi{
+   height: 30px;
+   width: 60px;
+   margin-left: 5px;
+   margin-top: 5px;
+   /* padding-left: 30px;
+   padding-top: 2px;
+   padding-bottom: 30px; */
+}
+.try{
+   height: 50px;
+   width: 120px;
+   margin-top: -62px;
+   margin-left: 760px;
+}
+.try-f{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: large;
+   color: gray;
+   padding-top: 10px;
+   padding-left: 10px;
+} 
+.try:hover{
+   background-color:none;
+   transition: 0.2;
+}
+.try-f:hover{
+  color: gold;
+}
+.en{
+   height: 50px;
+   width: 50px;
+   margin-top: -62px;
+   margin-left: 910px;
+   
+}
+.en-f{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: large;
+   color: gray;
+   padding-top: 7px;
+   padding-left: 10px;
+
+   
+}
+.en:hover{
+   background-color:none;
+   transition: 0.2;
+}
+.en-f:hover{
+  color: gold;
+ }
+/* .fa-regular{
+   background-color: aqua;
+   height: 50px;
+   width: 50px;
+   margin-top: -150px;
+   margin-left: 950px;
+   padding-top: 0px;
+   padding-left: 50px;
+   
+}   */
+
+.pic1{
+   height: 600px;
+   width:  750px;
+   margin-top: 5px;
+   margin-left:720px ;
+}   
+.pic-1{
+   height: 600px;
+   width: 750px;
+}
+.para1{
+   height: 500px;
+   width: 1000px;
+   margin-top:-500px;
+}
+.para-1{
+   color: azure;
+   font-size: 50px;
+   padding-top: 20px;
+   margin-left: 50px;
+   
+}
+.btn{
+   height: 50px;
+   width:300px;
+   margin-left: 60px;
+   font-size: medium;
+   background-color: #0f79af;
+   color: white;
+   border-radius: 10px;
+   border: none;
+
+}
+.pic-2{
+   height: 660px;
+   width: 800px;
+   margin-top: 20px;
+   margin-left: 10px;
+}
+.pic2{
+   height: 660px;
+   width: 800px;
+}
+
+.para2{
+   height: 660px;
+   width: 900px;
+   margin-top:-500px;
+   margin-left: 40%;
+}
+.para-2{
+   color: azure;
+   font-size: 50px;
+   padding-top: 20px;
+   margin-left: 35%;
+}
+
+.btn2{
+   height: 50px;
+   width:300px;
+   margin-left: 325px;
+   font-size: medium;
+   background-color: #0f79af;
+   color: white;
+   border-radius: 10px;
+   border: none;
+
+}
+.pic-3{
+   height: 700px;
+   width: 1200px;
+   margin-top:-150px;
+}
+.aa{
+   height: 700px;
+   width: 1000px;
+}
+.btn3{
+   height: 50px;
+   width:300px;
+   margin-left: 900px;
+   font-size: medium;
+   background-color: #0f79af;
+   color: white;
+   border-radius: 10px;
+   border: none;
+}
+ .footer{
+   height: 170px;
+   width: 1500px;;
+   background-color:  #222222;
+}
+.fpic{
+   margin-left: 720px;
+   padding-top: 30px; 
+}  
+.dropdown {
+   height: 20px;
+   display: inline-block;
+ }
+.dropdown-content {
+   display: none;
+   position: absolute;
+   background-color: #222222;
+   min-width: 130px;
+   box-shadow: 0px 8px 16px 0px gray;
+   padding: 12px 16px;
+   z-index: 1;
+ }
+ 
+ .dropdown:hover .dropdown-content {
+   display: block;
+ }
+.pic4{
+   height: 500px;
+   width: 1500px;
+   background-color: white;
+   margin-top: 20px;
+}
+.lol{
+   height: 500px;
+   width: 500px;
+   margin-left: 950px;
+   margin-top: -480px;
+}
+.lol1{
+   height: 150px;
+   width: 200px;
+   
+}
+.lol2{
+   height: 150px;
+   width: 200px;
+   
+}
+.lol1:hover{
+     box-shadow: 0px 8px 16px 0px black ;
+}
+ .lol3{
+   height: 150px;
+   width: 200px;
+   margin-left:250px ;
+   margin-top:-150px;
+} 
+.lol4{
+   height: 150px;
+   width:200px ;
+}
+.lol3:hover{
+   box-shadow: 0px 8px 16px 0px black ;
+}
+.lol5{
+   height: 150px;
+   width: 200px;
+   margin-top: 10px;
+}
+.lol6{
+   height: 150px;
+   width: 200px;
+}
+.lol5:hover{
+   box-shadow: 0px 8px 16px 0px black ;
+}
+.lol7{
+   height: 150px;
+   width: 200px;
+   margin-left:250px ;
+   margin-top:-150px;
+}
+.lol8{
+   height: 150px;
+   width: 200px;
+}
+.lol7:hover{
+   box-shadow: 0px 8px 16px 0px black ;
+}
+.lol9{
+   height: 150px;
+   width: 200px;
+   margin-top: 10px;
+   background-color: black;
+}
+.lol10{
+   height: 150px;
+   width: 200px;
+}
+.lol9:hover{
+   box-shadow: 0px 8px 16px 0px black ;
+}
+.lol11{
+   height: 150px;
+   width: 200px;
+   margin-left:250px ;
+   margin-top:-150px;
+}
+.lol12{
+   height: 150px;
+   width: 200px;
+}
+.lol11:hover{
+   box-shadow: 0px 8px 16px 0px black ;
+}
+.parap{
+   
+   height: 500px;
+   width: 900px;
+}
+.para-p{
+   font-size: 50px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   padding-top: 10px;
+
+}
+#popup {
+   flex: 1;
+   display: none;
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   padding: 20px;
+   border: 5px solid #0f79af;
+   border-radius: 20px;
+   /* background-image: url('C:\amazon prime clone\5.jpg'); */
+   
+ }
+ .s{
+   background-color: aqua;
+   color: black;
+   height: 50px;
+   width: 100px;
+   margin-left: 30px;
+   border-radius: 20px;
+ }
+ /* .im{
+   height: 50px;
+   width: 20px;
+ } */
+ 
